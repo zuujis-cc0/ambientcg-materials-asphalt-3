@@ -1,5 +1,8 @@
 {
- "assets": {},
+ "assets": {
+  "Asphalt032": "5c87d7c781acd5f6f1814e2dec70c321ffcd8413",
+  "Asphalt033": "cce4ef3445cbd4949f1c94a193daba0e8d340221"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
